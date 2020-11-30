@@ -1,4 +1,4 @@
-package varFunc
+package array
 
 import (
 	"fmt"

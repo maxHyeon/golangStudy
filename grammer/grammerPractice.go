@@ -1,4 +1,4 @@
-package grammerParctice
+package array
 
 import (
 	"fmt"
