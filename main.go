@@ -1,9 +1,9 @@
 package main
 
 import (
-    "github.com/maxHyeon/golangStudy/grammer"
+	"github.com/maxHyeon/golangStudy/grammer"
 )
 
-func main(){
-	grammer.arrayStudy();
+func main() {
+	grammer.GrammerHello()
 }

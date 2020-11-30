@@ -1,12 +1,13 @@
-package array
+package grammer
 
 import (
 	"fmt"
 )
 
-func arrayStudy() {
+func array() {
 	var x [5]int
 	x[4] = 100
-	fmt.println(x)
+	fmt.Println(x)
 }
+
 //https://www.codingnuri.com/golang-book/6.html

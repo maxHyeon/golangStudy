@@ -4,6 +4,6 @@ import (
 	"fmt"
 )
 
-func pointer() {
+func GrammerHello() {
 	fmt.Println("hello")
 }
