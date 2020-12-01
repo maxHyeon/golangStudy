@@ -6,4 +6,6 @@ import (
 
 func main() {
 	grammer.GrammerHello()
+	grammer.StatementParctice()
+	grammer.VarPractice()
 }

@@ -1,1 +1,1 @@
-# golangStudy
+GoLang Study with the THE BOOK's text GO 언어 철저 입문
