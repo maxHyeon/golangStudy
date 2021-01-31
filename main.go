@@ -1,13 +1,14 @@
 package main
 
-import (
-	"github.com/maxHyeon/golangStudy/grammer"
-)
+import "grammer"
 
 func main() {
-	grammer.GrammerHello()
-	grammer.StatementParctice()
-	grammer.VarPractice()
-	grammer.MultiplyTest()
-	grammer.array()
+	//If want to expose Function Must Capital
+	//grammer.GrammerHello()
+	//grammer.StatementParctice()
+	//grammer.VarPractice()
+	//grammer.MultiplyTest()
+	//grammer.Array()
+	//grammer.CalAvg()
+	//grammer.SlicePractice()
 }
