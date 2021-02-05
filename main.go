@@ -1,6 +1,6 @@
 package main
 
-import "grammer"
+import "github.com/maxHyeon/golangStudy/grammer"
 
 func main() {
 	//If want to expose Function Must Capital
@@ -11,4 +11,10 @@ func main() {
 	//grammer.Array()
 	//grammer.CalAvg()
 	//grammer.SlicePractice()
+	//grammer.ArrayPoint()
+	//grammer.SliceLen()
+	//grammer.ArrayPractice3()
+	//grammer.FindMinNum()
+	//grammer.ClosureTest()
+	grammer.MulParamFuncTest()
 }
